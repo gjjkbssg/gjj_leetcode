@@ -142,6 +142,7 @@
     <ClCompile Include="下一个排列.cpp" />
     <ClCompile Include="删除链表的倒数第 N 个结点.cpp" />
     <ClCompile Include="合并两个有序链表.cpp" />
+    <ClCompile Include="最大子数组和.cpp" />
     <ClCompile Include="最长回文子串.cpp" />
     <ClCompile Include="三数之和.cpp" />
     <ClCompile Include="括号的生成.cpp" />
